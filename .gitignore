@@ -31,3 +31,16 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# jb家的编辑器
+.idea
+
+# 无视swap
+*.swap
+
+# 无视DS_Store
+.DS_Store
+
+# 喜闻乐见无视
+.thumbnail
+Thumbs.db
